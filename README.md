@@ -5,3 +5,15 @@
 4. Data Types
 5. Variable, Constants, Scope, and Lifetime of variables
 6. Operators and their hierarchy
+
+## Day-02 [17/07/2021]
+1. Type Conversion and casting
+2. Escape Sequences
+3. Enumerated types
+4. Control flow statements and loops
+    - if 
+    - if else
+    - while
+    - do while
+    - switch
+    - for

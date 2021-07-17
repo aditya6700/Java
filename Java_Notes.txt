@@ -1,0 +1,80 @@
+------------------------------
+Escape Sequences
+-----------------------------
+\n ----> new line 
+\t ----> tab space
+\b ----> backspace
+
+Type Conversion 
+------------------------
+A type cast is basically a conversion from one type to another. 
+There are two types of type conversion:
+
+    bool -> char -> short int -> int -> 
+       unsigned int -> long -> unsigned -> 
+       long long -> float -> double -> long double
+
+
+1. Implicit Type Conversion
+    - Done by the compiler on its own, without any external trigger from the user.
+    - Generally takes place when in an expression more than one data type is present. 
+        In such condition type conversion (type promotion) takes place to avoid loss of data.
+    - All the data types of the variables are upgraded to the data type of the variable with largest data type.
+
+2. Explicit Type Conversion
+    - This process is also called type casting and it is user defined. 
+    - Here the user can type cast the result to make it of a particular data type.
+    syntax:
+        (type) variable 
+
+
+Enumyrated Types
+----------------------------------------
+A 'enum' type is a special data type that enables for a variable to be a set of 
+predefined constants. The variable must be equal to one the values that have been
+predefined for it.
+
+In java enumurated dataytpes are declared using the keyoword called 'enum'.
+
+
+Control flow statements and loops
+----------------------------------------
+if(condition){
+    // code
+}
+
+if(condition){
+    //code
+}else{
+    //code
+}
+
+while(condition){
+
+}
+
+do{
+    //code
+}while(condition)
+
+for(initialization; condition; increment/decrement){
+
+}
+
+switch(case){
+    case '1':
+        break
+    case '2':
+        break
+    case '3':
+        break
+        .
+        .
+        .
+        .
+    default:
+        break
+}
+
+break: Terminates the process or loop
+continue: Skips the code after the continue and moves to the next iteration.
