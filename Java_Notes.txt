@@ -78,3 +78,47 @@ switch(case){
 
 break: Terminates the process or loop
 continue: Skips the code after the continue and moves to the next iteration.
+
+Format Specifiers
+-----------------------------------
+%d -- integer
+%f -- floating point values
+%x --  hexadecimal integer
+%s -- string
+
+Arrays
+---------------------
+Array is a collection of similar dataytypes
+
+Syntax: (method 1)
+    data_type array_name[];  // creating an array variable
+    array_name = new data_type[size] // allocating memory
+
+Syntax: (method 2)
+    data_type array_name[] = new data_type[size]
+
+--> creating an array of dynamic size   
+    int name[] = {6,5,8,7,9,6,6};
+    
+
+
+for(int i = 0; i < 3; i++){
+
+    for(int j = 0; j < 3; j++){
+        a[i][j] 
+    }
+
+}
+
+
+i   j
+------
+0   0
+0   1
+0   2
+1   0
+1   1
+1   2
+2   0
+2   1
+2   2

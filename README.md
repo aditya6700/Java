@@ -17,3 +17,11 @@
     - do while
     - switch
     - for
+
+## Day-03 [19/07/2021]
+1. Arrays
+   - matrix operations
+   - linear search
+2. Console input and output
+3. Formatting output
+
