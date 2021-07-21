@@ -25,3 +25,11 @@
 2. Console input and output
 3. Formatting output
 
+## Day-04 [21/07/2021]
+1. concept of classes
+2. constructors
+3. methods
+    - parameter passing(variables and objects) 
+    - returning values(variables and objects)
+4. static fields nd methods
+5. access control
