@@ -31,5 +31,9 @@
 3. methods
     - parameter passing(variables and objects) 
     - returning values(variables and objects)
-4. static fields nd methods
-5. access control
+
+## Day-05 [22/07/2021]
+1. passing objects between methods
+2. static fields and methods
+3. Access specifiers
+4. this

@@ -100,3 +100,19 @@ Syntax: (method 2)
 --> creating an array of dynamic size   
     int name[] = {6,5,8,7,9,6,6};
     
+Static Members
+----------------------------
+Static methods and variables are called as static Members.
+static members are those which can be accesed without using or creating an object
+
+NOTE:
+1. The main method is always static
+2. Static methods can only access static data
+3. static method can call only a static method and can not call a non static method.
+4. static methods can not use this pointer
+
+
+this keyoword
+-----------------------------
+this keyoword is used by a method to refer the object which invoked that method.
+this keyoword is used inside the method definition to refer the current object.
